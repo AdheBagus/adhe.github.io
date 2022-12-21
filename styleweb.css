@@ -62,7 +62,7 @@ body {
     background-image: url(images/moroccan-flower.png);
 }
 .container {
-    width: 1000px;
+    width: 60%;
     margin: auto;
     background-color: #fff;
 }
@@ -76,11 +76,15 @@ body {
     padding-top: 10px;
     padding-bottom: 20px;
 }
+.navigasi-container {
+    margin-left: 650px;
+}
 .navigasi-container li {
     font-size:20px ;
     font-style: none;
     display: inline-block;
     margin-right: 2px;
+    
 }
 .container-header a {
     text-decoration: none;
@@ -105,7 +109,7 @@ body {
 
 .container-article {
     padding: 10px;
-    width: 600px;
+    width: 65%;
     float: left;
     
 }
@@ -132,7 +136,7 @@ body {
 
 }
 .container.profile{
-    width: 350px;
+    width: 35%;
     float: right;
     
 }
